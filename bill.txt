@@ -1,0 +1,7 @@
+Name: ice cream
+Quantity : 30
+Total bill: 450
+
+Name: dalpuri
+Quantity : 50
+Total bill: 400
